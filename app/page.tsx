@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 
 export default function Home() {
   return (
@@ -22,7 +22,7 @@ export default function Home() {
         {/* Hero Section */}
         <section id="about" className="py-20">
           <h1 className="text-4xl font-bold mb-4">
-            Hi, I'm Polina 👋
+            Hi, I&apos;m Polina 👋
           </h1>
           <p className="text-lg text-gray-600 dark:text-gray-400">
             Frontend Developer
