@@ -1,3 +1,30 @@
+Use this command 'yarn dev' in Terminal section in oreder for me to start my app / my project
+Command 'ctrl + c' in Terminal section for kill the process (to finish it).
+
+If I made some changes in code and I want to commit these changes (because they are important and I can roll back to these changes whenever I want), I need:
+1) to apply command 'git add .', so I can send all the changes I made to the Stage, switching by this action the status of these changes from just 'Changes' to 'Staged Changes';
+2) then I need to apply command 'git commit -m "[here I need to write some comment about the changes I made for this commit]"'.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
